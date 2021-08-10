@@ -1,2 +1,2 @@
 # docker-react
-Project to learn Docker, CI, and Kubernetes
+Build, test, and deploy Docker applications with Kubernetes while learning production-style development workflows
